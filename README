@@ -1,0 +1,3 @@
+Requires NBIS, mac binaries included in folder but will need recompiling if using another platform. http://www.nist.gov/itl/iad/ig/nbis.cfm.
+
+Paths in the scripts are absolute to my computer and will need modified
